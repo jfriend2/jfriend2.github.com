@@ -1,0 +1,12 @@
+# Site settings
+title: jwk.me
+email: joshwhatk@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Coding done right... (as far as I can tell right now... at this very moment... currently)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jwk.me" # the base hostname & protocol for your site
+twitter_username: joshwhatk
+github_username:  joshwhatk
+
+# Build settings
+markdown: kramdown
